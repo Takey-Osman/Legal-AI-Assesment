@@ -1,3 +1,5 @@
+This project was built as a practical take home assessment for an AI Engineer role. The goal is to demonstrate a simple but working pipeline for document processing, evidence retrieval, grounded draft generation, and learning from operator edits.
+
 # Legal Document Understanding and Grounded Draft Generator
 
 This repository is a practical take-home assessment submission for an AI Engineer role. It processes messy legal-style documents, extracts usable text and structured fields, retrieves relevant evidence, generates grounded first-pass drafts, and captures operator edits to improve future drafts.
@@ -157,11 +159,3 @@ See `evaluation.md` and `sample_outputs/` for the sample run results.
 - OCR quality depends on scan quality and Tesseract installation.
 - The generated draft is conservative and template-based. A production system could use an LLM with strict citation requirements.
 - The edit learning loop is intentionally simple. It captures reusable style signals but does not fine-tune a model.
-
-## Submission steps
-
-1. Push this repository to GitHub.
-2. Invite these collaborators:
-   - `github.com/tsensei`
-   - `github.com/abubakarsiddik31`
-3. Email the GitHub repo link with a short self-introduction to the assessment contact.
