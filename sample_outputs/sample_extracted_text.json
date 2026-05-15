@@ -1,0 +1,35 @@
+{
+  "source_file": "sample_legal_notice.txt",
+  "extracted_text": "NOTICE OF DEFAULT AND REQUEST FOR RESPONSE\nRef No: PSL-2026-047\nDate: 12 May 2026\n\nFrom: Rahman Property Holdings Ltd.\nTo: Mr. Arif Hossain\nProperty: Flat 6B, Lakeview Heights, Road 12, Banani, Dhaka\n\nThis notice concerns unpaid rent under the tenancy agreement dated 01 January 2025.\nThe records show that rent for March 2026 and April 2026 remains unpaid. Total outstanding amount: BDT 80,000.\nThe tenant is requested to respond within 7 days of receiving this notice and provide proof of payment if payment has already been made.\n\nThe maintenance log also records water leakage complaints on 05 April 2026. The handwritten note beside the complaint is partly unclear and should be reviewed manually.\n\nNo final legal conclusion is made in this notice. The matter should be reviewed with the underlying agreement, rent ledger, and maintenance records.",
+  "structured_fields": {
+    "document_type": "Notice / legal communication",
+    "dates_found": [
+      "01 January 2025",
+      "05 April 2026",
+      "12 May 2026"
+    ],
+    "reference_number": "PSL-2026-047",
+    "amounts_found": [
+      "BDT 80,000"
+    ],
+    "sender_or_claimant": "Rahman Property Holdings Ltd.",
+    "recipient_or_respondent": "Mr. Arif Hossain",
+    "property_address": "Flat 6B, Lakeview Heights, Road 12, Banani, Dhaka",
+    "unclear_marker_count": 1
+  },
+  "pages": [
+    {
+      "page": null,
+      "method": "plain_text",
+      "text": "NOTICE OF DEFAULT AND REQUEST FOR RESPONSE\nRef No: PSL-2026-047\nDate: 12 May 2026\n\nFrom: Rahman Property Holdings Ltd.\nTo: Mr. Arif Hossain\nProperty: Flat 6B, Lakeview Heights, Road 12, Banani, Dhaka\n\nThis notice concerns unpaid rent under the tenancy agreement dated 01 January 2025.\nThe records show that rent for March 2026 and April 2026 remains unpaid. Total outstanding amount: BDT 80,000.\nThe tenant is requested to respond within 7 days of receiving this notice and provide proof of payment if payment has already been made.\n\nThe maintenance log also records water leakage complaints on 05 April 2026. The handwritten note beside the complaint is partly unclear and should be reviewed manually.\n\nNo final legal conclusion is made in this notice. The matter should be reviewed with the underlying agreement, rent ledger, and maintenance records."
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "px_c1",
+      "source_file": "sample_legal_notice.txt",
+      "page": null,
+      "text": "NOTICE OF DEFAULT AND REQUEST FOR RESPONSE\nRef No: PSL-2026-047\nDate: 12 May 2026\n\nFrom: Rahman Property Holdings Ltd.\nTo: Mr. Arif Hossain\nProperty: Flat 6B, Lakeview Heights, Road 12, Banani, Dhaka\n\nThis notice concerns unpaid rent under the tenancy agreement dated 01 January 2025.\nThe records show that rent for March 2026 and April 2026 remains unpaid. Total outstanding amount: BDT 80,000.\nThe tenant is requested to respond within 7 days of receiving this notice and provide proof of payment if payment has already been made.\n\nThe maintenance log also records water leakage complaints on 05 April 2026. The handwritten note beside the complaint is partly unclear and should be reviewed manually.\n\nNo final legal conclusion is made in this notice. The matter should be reviewed with the underlying agreement, rent ledger, and maintenance records."
+    }
+  ]
+}

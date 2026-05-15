@@ -1,0 +1,13 @@
+{
+  "retrieved_evidence_count": 1,
+  "cited_evidence_ids": [
+    "E1"
+  ],
+  "grounded_citation_coverage": 1.0,
+  "field_presence": {
+    "document_type": true,
+    "dates_found": true,
+    "reference_number": true
+  },
+  "notes": "Manual review is still required for legal correctness and OCR errors."
+}
